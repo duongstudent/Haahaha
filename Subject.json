@@ -1,0 +1,284 @@
+[
+  {
+    "_id": "1",
+    "index": 0,
+    "name": "Linear Algebra",
+    "skills": {
+      "Math": 5,
+      "Creativity": 2,
+      "Logical Thinking": 6
+    },
+    "score": 0
+  },
+  {
+    "_id": "2",
+    "index": 1,
+    "name": "Introduction to Programming",
+    "skills": {
+      "C": 5,
+      "Math": 3,
+      "Creativity": 2,
+      "Logical Thinking": 5
+    },
+    "score": 0
+  },
+  {
+    "_id": "3",
+    "index": 2,
+    "name": "Introduction to Information Technology",
+    "skills": {
+      "Python": 6,
+      "Math": 2,
+      "Creativity": 2,
+      "Logical Thinking": 6
+    },
+    "score": 0
+  },
+  {
+    "_id": "4",
+    "index": 3,
+    "name": "Programming Techniques",
+    "skills": {
+      "C": 7,
+      "Math": 7,
+      "Creativity": 5,
+      "Logical Thinking": 7,
+      "Self_Taught": 5
+    },
+    "score": 0
+  },
+  {
+    "_id": "5",
+    "index": 4,
+    "name": "Discrete Math and Graph Theory",
+    "skills": {
+      "Math": 2,
+      "C": 2,
+      "Python": 2,
+      "Creativity": 2,
+      "Logical Thinking": 7,
+      "Self_Taught": 5
+    },
+    "score": 0
+  },
+  {
+    "_id": "6",
+    "index": 5,
+    "name": "Probability of Application Statistics",
+    "skills": {
+      "Math": 8,
+      "Creativity": 4,
+      "Logical Thinking": 7,
+      "Self_Taught": 5
+    },
+    "score": 0
+  },
+  {
+    "_id": "7",
+    "index": 6,
+    "name": "Data Structures And Algorithms",
+    "skills": {
+      "Math": 6,
+      "C": 7,
+      "Logical Thinking": 7,
+      "Creativity": 6,
+      "English": 5,
+      "Teamwork": 5,
+      "Self_Taught": 6
+    },
+    "score": 0
+  },
+  {
+    "_id": "8",
+    "index": 7,
+    "name": "Computer Architecture and Assembly Language",
+    "skills": {
+      "Math": 6,
+      "Assembly": 6,
+      "Logical Thinking": 6,
+      "English": 6,
+      "Creativity": 3,
+      "Self_Taught": 6
+    },
+    "score": 0
+  },
+  {
+    "_id": "9",
+    "index": 8,
+    "name": "Object Oriented Programming",
+    "skills": {
+      "Math": 2,
+      "Logical Thinking": 7,
+      "C#": 7,
+      "Creativity": 6,
+      "Teamwork": 6,
+      "Self_Taught": 7
+    },
+    "score": 0
+  },
+  {
+    "_id": "10",
+    "index": 9,
+    "name": "Database",
+    "skills": {
+      "Math": 2,
+      "Logical Thinking": 8,
+      "SQL": 7,
+      "Creativity": 7,
+      "Teamwork": 7,
+      "Self_Taught": 8
+    },
+    "score": 0
+  },
+  {
+    "_id": "11",
+    "index": 10,
+    "name": "Operating System",
+    "skills": {
+      "Math": 3,
+      "Logical Thinking": 7,
+      "C": 6,
+      "Python": 6,
+      "Creativity": 3,
+      "Self_Taught": 7
+    },
+    "score": 0
+  },
+  {
+    "_id": "12",
+    "index": 11,
+    "name": "Python Programming",
+    "skills": {
+      "Math": 7,
+      "Logical Thinking": 7,
+      "Python": 5,
+      "Creativity": 3,
+      "Self_Taught": 5
+    },
+    "score": 0
+  },
+  {
+    "_id": "13",
+    "index": 12,
+    "name": "Network Basics",
+    "skills": {
+      "Math": 2,
+      "Logical Thinking": 6,
+      "Creativity": 3,
+      "Self_Taught": 7
+    },
+    "score": 0
+  },
+  {
+    "_id": "14",
+    "index": 13,
+    "name": "Artificial Intelligence",
+    "skills": {
+      "Math": 8,
+      "Logical Thinking": 8,
+      "Python": 8,
+      "Creativity": 7,
+      "Teamwork": 7,
+      "Self_Taught": 7
+    },
+    "score": 0
+  },
+  {
+    "_id": "15",
+    "index": 14,
+    "name": "Web Programming",
+    "skills": {
+      "Math": 2,
+      "HTML": 4,
+      "CSS": 4,
+      "Javascript": 4,
+      "Logical Thinking": 6,
+      "Creativity": 4,
+      "Self_Taught": 8
+    },
+    "score": 0
+  },
+  {
+    "_id": "16",
+    "index": 15,
+    "name": "Mobile Programming",
+    "skills": {
+      "Math": 3,
+      "Java": 6,
+      "Logical Thinking": 6,
+      "Creativity": 6,
+      "Self_Taught": 7
+    },
+    "score": 0
+  },
+  {
+    "_id": "17",
+    "index": 16,
+    "name": "Programming on Windows",
+    "skills": {
+      "Math": 6,
+      "C#": 8,
+      "Logical Thinking": 8,
+      "Creativity": 7,
+      "Teamwork": 7,
+      "Self_Taught": 8
+    },
+    "score": 0
+  },
+  {
+    "_id": "17",
+    "index": 16,
+    "name": "Advanced Mobile Programming",
+    "skills": {
+      "Math": 8,
+      "Java": 9,
+      "Logical Thinking": 8,
+      "Creativity": 7,
+      "Teamwork": 8,
+      "Self_Taught": 8
+    },
+    "score": 0
+  },
+  {
+    "_id": "18",
+    "index": 17,
+    "name": "Machine Learning",
+    "skills": {
+      "Math": 8,
+      "Python": 8,
+      "Logical Thinking": 9,
+      "Teamwork": 8,
+      "Creativity": 6,
+      "Self_Taught": 8
+    },
+    "score": 0
+  },
+  {
+    "_id": "19",
+    "index": 18,
+    "name": "Deep Learning",
+    "skills": {
+      "Math": 9,
+      "Python": 9,
+      "Logical Thinking": 9,
+      "Teamwork": 8,
+      "Creativity": 6,
+      "Self_Taught": 8
+    },
+    "score": 0
+  },
+  {
+    "_id": "20",
+    "index": 19,
+    "name": "Software Engineering",
+    "skills": {
+      "Math": 7,
+      "C": 8,
+      "Logical Thinking": 8,
+      "Creativity": 7,
+      "Teamwork": 8,
+      "Self_Taught": 8
+    },
+    "score": 0
+  }
+]
